@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FirstAppJava</string>
+    <string name="labbelapp">LOGIN USER</string>
+    <string name="un">Username</string>
+    <string name="ps">Password</string>
+    <string name="btn">SIGN-IN</string>
+    <string name="judulhal2">Menu Hitung Bangun Datar</string>
+    <string name="masukkan_username">Masukkan Username</string>
+    <string name="masukkan_password">Masukkan Password</string>
+    <string name="psg">Persegi</string>
+    <string name="lkr">Lingkaran</string>
+    <string name="pjg">Persegi Panjang</string>
+    <string name="tiga">Segitiga</string>
+    <string name="tpr">Trapesium</string>
+</resources>
